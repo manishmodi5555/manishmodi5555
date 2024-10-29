@@ -1,5 +1,5 @@
 
-👋 **Hey there!** I’m a passionate **Full Stack Developer** currently pursuing my **Bachelor’s degree in Computer Applications (BCA)** at **President Institute College**, under **Gujarat University**. I’m in my 3rd year, steadily building a foundation in computer science and diving deeper into the world of technology and development.
+👋 **Hey there!** I’m a passionate **Web Developer** currently pursuing my **Bachelor’s degree in Computer Applications (BCA)** at **President Institute College**, under **Gujarat University**. I’m in my 3rd year, steadily building a foundation in computer science and diving deeper into the world of technology and development.
 
 🚀 **Professional Experience**  
 I'm currently interning at **InfoLabz Private Limited** 🏢, where I’m getting hands-on experience with modern web technologies, building real-world applications, and honing my skills in both frontend and backend development. This experience is giving me invaluable insights into the industry, working with a team, and tackling challenging projects.
